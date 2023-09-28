@@ -796,6 +796,11 @@ form .ok button {
     color: var(--color-p);
     font-size: var(--size-p);
     margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.about2 .catgory pre:hover {
+    color: #666;
 }
 
 footer {
